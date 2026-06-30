@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4i0020/WYG/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 風月堂詩話跋右風月堂詩話二巻得之於永城人朱伯玉家斷爛脱誤葢北方所傳本也予嘗見北客元遺山詞謂劉九伯夀騎牛吹笛使二草和之意其得之山中故老本無所出也今其事乃具於此信乎讀者之不可以不博也故為鈔之楮中而識於篇末如此咸淳壬申嘉平月交年節月觀道人誌
+  hash: sha256:fe6dbf333694925844fbc42d5e0f20bfaab49ef89c6bca62579a539c85359c33
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4i0020_WYG_003-1a, image: WYG1479/WYG1479-0029a.png}
+metadata:
+  title: 風月堂詩話
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:44:47.867342'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR4i0020/KR4i0020_003.txt
+hash: sha256:0cf45fe4c2882b2a4a739f417ced09ea56a4afc083d497e09764eb6acd6ab661
