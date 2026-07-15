@@ -11,10 +11,14 @@ markers:
 
       ', id: KR4i0020_krp_003-bkkkrnewl2}
   - {type: line-break, offset: 6, content: '', id: KR4i0020_WYG_003-1a02}
+  - {type: substitution, offset: 13, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
+  - {type: substitution, offset: 26, original: 脱, replacement: 脫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19795}}
   - {type: 'kr:newline', offset: 27, content: '
 
       ', id: KR4i0020_krp_003-bkkkrnewl3}
   - {type: line-break, offset: 27, content: '', id: KR4i0020_WYG_003-1a03}
+  - {type: substitution, offset: 28, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19539}}
+  - {type: substitution, offset: 35, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: 'kr:newline', offset: 48, content: '
 
       ', id: KR4i0020_krp_003-bkkkrnewl4}
@@ -31,8 +35,9 @@ markers:
 
       ', id: KR4i0020_krp_003-bkkkrnewl7}
   - {type: line-break, offset: 111, content: '', id: KR4i0020_WYG_003-1a07}
+  - {type: substitution, offset: 116, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: 'kr:newline', offset: 117, content: '
 
       ', id: KR4i0020_krp_003-bkkkrnewl8}
   back: []
-hash: sha256:429e10077ce256df1e65c0d3cfcf1fb65d8298845327d0906a8d27d14d674b63
+hash: sha256:dc322f3db6d404ef9a0c03ed3fb81e60145d8f74404ea35364f85cee987f0553
